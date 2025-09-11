@@ -1,0 +1,129 @@
+.logo img{
+    height: 2%;
+    width: 6%;
+}
+
+.textcolor{
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+   
+}
+
+
+.main{
+    display: flex;
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 7%;
+    position: relative;
+    margin-left: 1%;
+
+   
+}
+
+.left{
+    width:50% ;
+    text-align: start;
+    align-items: center;
+    margin-bottom: 9%;
+    /* margin-right: 5%; */
+}
+input:focus {
+  border-color: #555; 
+  outline: none; 
+}
+.right{
+    width: 35%;
+    display: flex;
+    margin-top: 7%;
+   
+}
+.right1 input{
+    width: 90%;
+    height: 8vh;
+     background-color: brown; 
+     border: 2px solid white; 
+
+    
+}
+.second input{
+color: white;
+
+}
+::placeholder{
+    color: white;
+    
+}
+textarea{
+    color: white  ;
+    background-color: brown;
+    width: 90%;
+    height: 50px;
+    border: 2px solid    white;
+}
+.div1 p{
+    color: white;
+    font-size: 75%
+    
+}
+.award1 {
+    display: flex;
+    align-items: center;        
+    justify-content: space-between;
+    width: 90%;                  
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+    gap: 7px;    
+    color: aliceblue;               
+}
+
+.award1 button {
+    font-size: 5px;
+    padding: 2px 6px;
+    height: 17px;
+    width: 17px;
+    margin-right: 18%;
+}
+
+.div1 input{
+    color: white;
+
+}
+input[type="checkbox"]{
+    height: 18px;
+    width: 18px;
+}
+.Submission .submit{
+ text-align: center;
+width: 80%;
+height: 50%;
+justify-content: space-between;
+margin-top: 5%;
+font-size: 100%;
+}
+.Submission button{
+    height: 35%;
+}
+.first{
+    /* margin-top: 10%; */
+}
+.logob img{
+   position:absolute ;
+   right: 0px;
+   bottom: 0px;
+}
+.button [type="button"]{
+    font-size: 5px;
+}
+.lefthead{
+    font-size: 6vh;
+    color: white;
+    margin: 0%;
+}
+label{
+    justify-content: start;
+}
