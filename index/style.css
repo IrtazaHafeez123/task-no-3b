@@ -145,6 +145,7 @@ body {
   background: rgb(71, 36, 36);
   border: 2px solid white;
   cursor:pointer;
+ 
 }
 .award label {
   flex: 1;
