@@ -152,6 +152,7 @@ body {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  
 }
 /* Plus Button */
 .plus-btn {
@@ -183,7 +184,7 @@ button[type="submit"] {
   width: 100%;
 }
 button[type="submit"]:hover {
-  background: #3888FF;
+  background: whitesmoke;   
   color: #000000;
 }
 .awardd{
@@ -212,3 +213,8 @@ button[type="submit"]:hover {
   bottom: 0%;
   right: 0%;
 }
+.left p{
+  font-size: 90%;
+  font-weight: bold;
+  margin-left: 8px;
+ }
