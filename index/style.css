@@ -137,8 +137,8 @@ body {
 }
 .award input[type="checkbox"] {
   margin-top: 2%;
-  width: 18px;
-  height: 18px;
+  width: 100%;
+  height: 107%;
   margin: 0;
   accent-color: #693232;
   color: rgb(8, 5, 5);
